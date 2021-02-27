@@ -1,0 +1,10 @@
+C:\repos\FormulasMatematicas\Mathcalculos\bin\Debug\Mathcalculos.exe.config
+C:\repos\FormulasMatematicas\Mathcalculos\bin\Debug\Mathcalculos.exe
+C:\repos\FormulasMatematicas\Mathcalculos\bin\Debug\Mathcalculos.pdb
+C:\repos\FormulasMatematicas\Mathcalculos\obj\Debug\Mathcalculos.csprojAssemblyReference.cache
+C:\repos\FormulasMatematicas\Mathcalculos\obj\Debug\Mathcalculos.Form1.resources
+C:\repos\FormulasMatematicas\Mathcalculos\obj\Debug\Mathcalculos.Properties.Resources.resources
+C:\repos\FormulasMatematicas\Mathcalculos\obj\Debug\Mathcalculos.csproj.GenerateResource.cache
+C:\repos\FormulasMatematicas\Mathcalculos\obj\Debug\Mathcalculos.csproj.CoreCompileInputs.cache
+C:\repos\FormulasMatematicas\Mathcalculos\obj\Debug\Mathcalculos.exe
+C:\repos\FormulasMatematicas\Mathcalculos\obj\Debug\Mathcalculos.pdb
